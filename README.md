@@ -1,4 +1,4 @@
-# puravida
+# Puravida
 Puravida-Email-Mkt
 
 <img src="https://github.com/willhalen/puravida/blob/main/imagens/email-mkt-01.jpg">
